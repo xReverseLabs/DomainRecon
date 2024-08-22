@@ -91,4 +91,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-For any inquiries, reach out to the project maintainer at [Your Email](mailto:l1nux3r69@gmail.com).
+For any inquiries, reach out to the project maintainer at [Email](mailto:l1nux3r69@gmail.com).
