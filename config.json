@@ -1,7 +1,7 @@
 {
-  "apiKey": "YOUR_API_KEY_HERE",
+  "apiKey": "YOUR_API_KEY",
   "apis": {
-    "itsuka": "https://api.xreverselabs.my.id/itsuka?apiKey=%s&ip=%s",
-    "himawari": "https://api.xreverselabs.my.id/himawari?apiKey=%s&ip=%s"
+    "itsuka": "https://api.xreverselabs.org/itsuka?apiKey=%s&ip=%s",
+    "himawari": "https://api.xreverselabs.org/himawari?apiKey=%s&ip=%s"
   }
 }
