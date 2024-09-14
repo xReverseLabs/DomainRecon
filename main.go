@@ -134,7 +134,7 @@ func showBanner() {
 	`
 	color.Cyan(banner)
 	color.Cyan("==================================================")
-	color.Cyan("Site : https://xreverselabs.my.id - By t.me/xxyz4")
+	color.Cyan("Site : https://xreverselabs.org - By t.me/xxyz4")
 	color.Cyan("Private & Maintained Datacenter")
 	color.Cyan("==================================================")
 }
